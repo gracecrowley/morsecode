@@ -12,7 +12,7 @@ def MorseEncode(sentence):
 
 
 # test your function
-original = "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+original = "THE LAZY DOG"
 
 encoded = MorseEncode(original)
 

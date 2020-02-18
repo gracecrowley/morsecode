@@ -6,7 +6,7 @@ def MorseEncode(sentence):
   for letter in sentence:
     if letter != ' ':
       letter = CODE[letter]
-      encoded_sentence += letter
+    encoded_sentence += letter
 
   return encoded_sentence
 
